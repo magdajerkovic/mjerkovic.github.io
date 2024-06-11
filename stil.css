@@ -1,0 +1,24 @@
+/* CSS Document */
+p{font-family: "Lucida Censole", "Courier New", "monospace"}
+	p{font-size:18px;}
+	p{width:700px;}
+	p{color:white;}
+h1{font-family: "Lucida Censole", "Courier New", "monospace"}
+h1{font-size:40px;}
+h1{color:white;}
+h2{font-family: "Lucida Censole", "Courier New", "monospace"}
+h2{color:white;}
+a{font-family: "Lucida Censole", "Courier New", "monospace"}
+	a{font-size:18px;}
+	a{width:700px;}
+	a{color:black;}
+ol{font-family: "Lucida Censole", "Courier New", "monospace"}
+	ol{font-size:17px;}
+	ol{width:700px;}
+	ol{color:white;}
+ul{font-family: "Lucida Censole", "Courier New", "monospace"}
+	ul{font-size:17px;}
+	ul{width:700px;}
+	ul{color:white;}
+body{background-color:grey;}
+img{height:350px;}
