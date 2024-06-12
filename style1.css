@@ -1,0 +1,44 @@
+/* CSS Document */
+
+/* Define a custom font-face */
+@font-face{
+	font-family: "CustomFont";
+	src: url("htmlfont.ttf") format("truetype")
+}
+
+h1{font-family: "CustomFont";}
+h1{font-size:75px;}
+h1{width:700px;}
+h1{color:white;}
+
+p{font-family: "Lucida Censole", "Courier New", "monospace";}
+p{font-size:20px;}
+p{width:1000px;}
+p{color:white;}
+
+h2{font-size:30px;}
+h2{width:700px;}
+h2{color:white;}
+h2{text-decoration: underline;}
+
+h3{font-size:30px;}
+h3{width:700px;}
+h3{color:white;}
+
+img{height:230px;}
+
+ol{font-family: "Lucida Censole", "Courier New", "monospace"}
+	ol{font-size:20px;}
+	ol{width:1000px;}
+	ol{color:white;}
+	
+ul{font-family: "Lucida Censole", "Courier New", "monospace"}
+	ul{font-size:20px;}
+	ul{width:1000px;}
+	ul{color:white;}
+	
+body{
+	font-family: "Lucida Censole", "Courier New", "monospace";
+	font-size:20px;
+	background-color: grey;
+	}
